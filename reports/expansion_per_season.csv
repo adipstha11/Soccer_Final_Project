@@ -1,0 +1,15 @@
+Competition,Season,Era,Matches found,Valid formations,Valid goal events,Fully usable matches,Regulation goals,Box score missing %,Commentary incomplete %,Pre-match odds missing %,Score == football-data.co.uk %,Linescore conflicts resolved
+Premier League,2016-17,added (v2),380,380,380,380,1064,97.1,0.0,0.0,100.0,0
+Premier League,2017-18,added (v2),380,379,380,379,1017,0.0,0.5,0.0,100.0,1
+Premier League,2018-19,added (v2),380,378,380,378,1066,0.3,1.6,0.0,100.0,0
+Premier League,2019-20,added (v2),380,380,380,380,1034,1.1,0.0,0.0,100.0,0
+Premier League,2020-21,added (v2),380,380,380,380,1024,2.1,0.0,0.0,100.0,0
+Premier League,2021-22,added (v2),380,380,380,380,1071,7.4,0.3,0.0,100.0,0
+Premier League,2022-23,added (v2),380,380,380,380,1084,22.4,0.0,0.0,100.0,0
+Premier League,2023-24,baseline (v1),380,380,380,380,1246,2.6,0.0,0.0,100.0,0
+Premier League,2024-25,baseline (v1),380,380,380,380,1115,3.2,0.0,0.0,100.0,0
+Premier League,2025-26,baseline (v1),380,380,380,380,1045,0.0,0.3,0.0,100.0,3
+Premier League,2026-27,baseline (v1),109,109,109,109,299,0.0,0.0,8.3,100.0,0
+FIFA World Cup,2018,baseline (v1),64,64,64,64,166,0.0,0.0,,,2
+FIFA World Cup,2022,baseline (v1),64,64,64,64,168,0.0,0.0,,,0
+FIFA World Cup,2026,baseline (v1),104,104,104,104,300,0.0,0.0,,,0

@@ -1,0 +1,11 @@
+,"v1 baseline (1,481 matches)","v2 expanded (4,138 matches)"
+matches,1481,4138
+distinct formations,21,23
+distinct exact matchups (unordered),98,171
+exact matchups >=30 matches,10,29
+exact matchups >=50,6,18
+exact matchups >=100,3,10
+share of matches in matchups >=30,0.734,0.797
+distinct group matchups (unordered),17,17
+group matchups >=30,11,15
+group matchups >=100,4,14

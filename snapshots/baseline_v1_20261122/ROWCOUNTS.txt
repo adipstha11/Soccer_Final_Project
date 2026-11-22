@@ -1,0 +1,4 @@
+processed/goal_events.csv 4354 rows
+processed/match_level.csv 1481 rows
+processed/source_audit.csv 16 rows
+processed/team_interval_panel.csv 17772 rows

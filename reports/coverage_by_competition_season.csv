@@ -1,0 +1,15 @@
+competition,season,expected_matches,matches_listed_by_source,completed_by_cutoff,matches_downloaded,matches_parsed,both_starting_formations,complete_goal_events,both_requirements (primary sample),goals_total_all_periods,validated_regulation_goals_primary,goals_per_match_primary,pct_missing_formation,pct_goal_events_unreconciled,pct_missing_boxscore,pct_missing_prematch_odds,pct_missing_prematch_elo,formation_agreement_apif_pct,formation_agreement_statsbomb_pct,goals_with_active_formation
+Premier League,2016-17,380.0,380,380,380,380,380,380,380,1064,1064,2.8,0.0,0.0,97.11,0.0,100.0,95.5,,0
+Premier League,2017-18,380.0,380,380,380,380,379,380,379,1018,1017,2.683,0.26,0.0,0.0,0.0,100.0,97.9,,0
+Premier League,2018-19,380.0,380,380,380,380,378,380,378,1072,1066,2.82,0.53,0.0,0.26,0.0,100.0,94.5,,0
+Premier League,2019-20,380.0,380,380,380,380,380,380,380,1034,1034,2.721,0.0,0.0,1.05,0.0,100.0,97.6,,0
+Premier League,2020-21,380.0,380,380,380,380,380,380,380,1024,1024,2.695,0.0,0.0,2.11,0.0,100.0,96.3,,0
+Premier League,2021-22,380.0,380,380,380,380,380,380,380,1071,1071,2.818,0.0,0.0,7.37,0.0,100.0,96.1,,0
+Premier League,2022-23,380.0,380,380,380,380,380,380,380,1084,1084,2.853,0.0,0.0,22.37,0.0,100.0,93.9,,0
+Premier League,2023-24,380.0,380,380,380,380,380,380,380,1246,1246,3.279,0.0,0.0,2.63,0.0,100.0,96.8,,0
+Premier League,2024-25,380.0,380,380,380,380,380,380,380,1115,1115,2.934,0.0,0.0,3.16,0.0,100.0,98.7,,0
+Premier League,2025-26,380.0,380,380,380,380,380,380,380,1045,1045,2.75,0.0,0.0,0.0,0.0,100.0,97.1,,0
+Premier League,2026-27,,109,109,109,109,109,109,109,299,299,2.743,0.0,0.0,0.0,8.26,100.0,,,0
+FIFA World Cup,2018,64.0,64,64,64,64,64,64,64,169,166,2.594,0.0,0.0,0.0,100.0,0.0,95.3,56.2,169
+FIFA World Cup,2022,64.0,64,64,64,64,64,64,64,172,168,2.625,0.0,0.0,0.0,100.0,0.0,87.5,70.3,172
+FIFA World Cup,2026,104.0,104,104,104,104,104,104,104,308,300,2.885,0.0,0.0,0.0,100.0,0.0,98.8,,0

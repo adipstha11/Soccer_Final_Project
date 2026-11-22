@@ -1,0 +1,22 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+logs/
+# raw source caches (1.7 GB; ESPN raw JSON must not be redistributed)
+data/raw/
+data/interim/
+# staging builds and full snapshot copies (kept locally)
+data/staging_v2/
+reports_staging_v2/
+snapshots/*/processed/
+snapshots/*/reports/
+snapshots/*/src/
+snapshots/*/tests/
+snapshots/*/README.md
+snapshots/*/espn_event_index.json
+.Rhistory
+.RData
+.Rproj.user/
